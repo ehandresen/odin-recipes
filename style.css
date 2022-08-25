@@ -1,0 +1,31 @@
+* {
+    
+    margin: 0;   
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+body {
+    background-color: bisque;
+}
+
+#heading {
+    background-color: brown;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 10px;
+    color: white;
+    font-weight: bold;
+}
+
+.container {
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+    background-color: white
+}
+
+a {
+    text-decoration: none;
+    color: brown;
+}
+
